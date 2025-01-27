@@ -403,7 +403,7 @@
 
 
     // 25.	What is the output?
-     	for (let i = 0; i <= 3; i++, console.log(i+"hlo"));
+    // for (let i = 0; i <= 3; i++, console.log(i));
     // –	
     // A)	1, 2, 3, 4
     // –	
